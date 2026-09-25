@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "e965e241502a89c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "52d7e0e6fe9997c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63535cc6c0a762c4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1afbae68b1063dc4",
+    "type": "split",
+    "children": [
+      {
+        "id": "25255738733076a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7ae783a49a1887d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "c5d99c0217715a7d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "9308845837888cca",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "26ee697037f5a380",
+    "type": "split",
+    "children": [
+      {
+        "id": "bcaf467d8cac61e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50a09fa94d5c282e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Застывшее море.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Застывшее море"
+            }
+          },
+          {
+            "id": "9623999a5e41f54b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Застывшее море.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Застывшее море"
+            }
+          },
+          {
+            "id": "f77d66e78d6096e7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "96e6d3397e40b228",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "4fe9d15393f494f9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Застывшее море.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Застывшее море"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "63535cc6c0a762c4",
+  "lastOpenFiles": [
+    "README.md",
+    "_sidebar.md",
+    "5. Правила по имуществу/{+} Правила по имуществу.md",
+    "4. Правила по Магии/Мистическая магия.md",
+    "1. Для старта/6. Развитие.md",
+    "1. Для старта/5. Характеристики.md",
+    "1. Для старта/2. Из чего состоит персонаж.md",
+    "1. Для старта/1. Игральные кости.md",
+    "1. Для старта/0. Терминология.md",
+    "1. Для старта/{+} Для старта.md",
+    "2. Народы/Эльфы.md",
+    "7. Дополнительные материалы/Религия в Дольменвуде.md",
+    "2. Народы/Моховики.md",
+    "7. Дополнительные материалы/{+} Дополнительные материалы.md",
+    "Добро пожаловать в Дольменвуд.md",
+    "2. Народы/{+} Народы.md",
+    "3. Классы/{+} Классы.md",
+    "4. Правила по Магии/{+} Правила по магии.md",
+    "6. Основные механики/{+} Основные механики.md",
+    "4. Правила по Магии/Заклинания мистической магии/1 ранг (AS).md",
+    "6. Основные механики/1. Базовая игровая процедура.md",
+    "1. Для старта/7. Языки.md",
+    "1. Для старта/4. Мировоззрение.md",
+    "1. Для старта/3. Создание персонажа.md",
+    "1. Для старта/- Инструкция.md",
+    "6. Основные механики/13. Опциональные правила боя.md",
+    "7. Дополнительные материалы",
+    "6. Основные механики",
+    "5. Правила по имуществу",
+    "4. Правила по Магии/Руны",
+    "4. Правила по Магии/Заклинания святой магии",
+    "4. Правила по Магии/Заклинания мистической магии",
+    "4. Правила по Магии",
+    "3. Классы",
+    "2. Народы",
+    "1. Для старта"
+  ]
+}

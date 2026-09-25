@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>Дольменвуд — База знаний</title>
+  <meta name="description" content="База знаний по настольной ролевой игре Dolmenwood">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/themes/vue.css">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar-collapse.min.css">
+</head>
+<body>
+  <div id="app">Загрузка...</div>
+
+  <script>
+    window.$docsify = {
+      // Название сайта в сайдбаре
+      name: 'Дольменвуд',
+
+      // Ссылка на репозиторий (кнопка "Edit on GitHub")
+      // Замените на свой логин/репозиторий или удалите строку
+      repo: 'ваш_логин/ваш_репозиторий',
+
+      // Загружать сайдбар из _sidebar.md
+      loadSidebar: true,
+
+      // Максимальный уровень заголовков для автоматического оглавления
+      subMaxLevel: 3,
+
+      // Автоматически прокручивать наверх при смене страницы
+      auto2top: true,
+
+      // Поддержка относительных ссылок внутри .md-файлов
+      relativePath: true,
+
+      // Плагин поиска
+      search: {
+        placeholder: 'Поиск...',
+        noData: 'Ничего не найдено :(',
+        depth: 3
+      },
+
+      // Кнопка "Копировать" для блоков кода
+      copyCode: {
+        buttonText: 'Копировать'
+      }
+    }
+  </script>
+
+  <!-- Основной скрипт Docsify -->
+  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+
+
+  <!-- Плагин поиска -->
+  <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js"></script>
+
+  <!-- Плагин копирования кода -->
+  <script src="//cdn.jsdelivr.net/npm/docsify-copy-code"></script>
+</body>
+</html>
