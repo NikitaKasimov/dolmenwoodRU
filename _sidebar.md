@@ -6,3 +6,11 @@
 - [5. Правила по имуществу](/5.%20Правила%20по%20имуществу/{+}%20Правила%20по%20имуществу.md)
 - [6. Основные механики](/6.%20Основные%20механики/{+}%20Основные%20механики.md)
 - [7. Дополнительные материалы](/7.%20Дополнительные%20материалы/{+}%20Дополнительные%20материалы.md)
+
+<p style="text-align: center;">
+  <a href="/dolmenwoodRU/1.%20Для%20старта/char.pdf"
+     target="_blank" 
+     style="display: inline-block; padding: 12px 24px; background-color: #8B4513; color: #fff; text-decoration: none; border-radius: 6px; font-weight: bold;">
+    📥 Скачать Лист персонажа
+  </a>
+</p>
