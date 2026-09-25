@@ -42,6 +42,12 @@
       // Кнопка "Копировать" для блоков кода
       copyCode: {
         buttonText: 'Копировать'
+
+	 pagination: {
+   	 previousText: '← Назад',
+   	 nextText: 'Вперёд →',
+   	 crossChapter: true, // Позволяет переходить между разными разделами
+   	 crossChapterText: true // Показывает название раздела при переходе
       }
     }
   </script>
@@ -55,5 +61,8 @@
 
   <!-- Плагин копирования кода -->
   <script src="//cdn.jsdelivr.net/npm/docsify-copy-code"></script>
+
+  <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
+
 </body>
 </html>
